@@ -104,7 +104,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: atifaspire747@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/rao-atif-mahmood  
+- 🔗 LinkedIn: https://www.linkedin.com/in/rao-atif-mahmood-1190b5242/
 - 💻 GitHub: https://github.com/Atifmehmood2004  
 
 ---
