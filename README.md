@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rao Atif Mahmood</h1>
-<h3 align="center">🚀 Python Backend Developer | FastAPI | Django REST | Flutter Integration</h3>
+<h3 align="center"> Python Backend Developer | FastAPI | Django REST | Flutter Integration</h3>
 
 <p align="center">
   <a href="mailto:atifaspire747@gmail.com">
